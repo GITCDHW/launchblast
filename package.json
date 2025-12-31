@@ -15,7 +15,8 @@
     "firebase": "^10.11.0",
     "axios": "^1.6.8",
     "firebase-admin": "latest",
-    "resend": "latest"
+    "resend": "latest",
+    "lucide-react":"latest"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1",
