@@ -13,7 +13,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "firebase": "^10.11.0",
-    "axios": "^1.6.8"
+    "axios": "^1.6.8",
+    "firebase-admin": "latest",
+    "resend": "latest"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.1",
